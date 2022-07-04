@@ -1,7 +1,6 @@
 {
   "name": "awesomebooks_es6_javascript",
   "version": "1.0.0",
-  "type": "module",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
   "scripts": {
@@ -21,5 +20,7 @@
   "dependencies": {
     "luxon": "^2.4.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "hint": "^2.0.0"
+  }
 }
