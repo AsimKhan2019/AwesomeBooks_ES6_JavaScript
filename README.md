@@ -12,7 +12,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://asimkhan2019.github.io/AwesomeBooksES6/)
+[Live Demo Link](https://asimkhan2019.github.io/AwesomeBooks_ES6_JavaScript/)
 
 
 ## Getting Started
