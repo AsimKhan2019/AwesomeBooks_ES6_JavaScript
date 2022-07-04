@@ -1,7 +1,7 @@
 {
   "name": "awesomebooks_es6_javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,6 @@
   "homepage": "https://github.com/AsimKhan2019/AwesomeBooks_ES6_JavaScript#readme",
   "dependencies": {
     "luxon": "^2.4.0"
-  }
+  },
+  "devDependencies": {}
 }
