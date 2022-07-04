@@ -1,6 +1,7 @@
 {
   "name": "awesomebooks_es6_javascript",
   "version": "1.0.0",
+  "type": "module",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
   "scripts": {
