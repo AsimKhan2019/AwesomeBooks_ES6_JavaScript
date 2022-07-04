@@ -2,7 +2,7 @@ import Books from './modules/Books.js';
 import UI from './modules/UI.js';
 import Storage from './modules/BookStorage.js';
 import Navigation from './modules/Navigation.js';
-import { DateTime } from './modules/Luxon.js';
+import { DateTime } from 'https://moment.github.io/luxon/es6/luxon.js';
 
 const navList = document.querySelector('.nav-list');
 const btnSubmit = document.querySelector('.submit');

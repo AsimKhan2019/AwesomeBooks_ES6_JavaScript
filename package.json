@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AsimKhan2019/AwesomeBooks_ES6_JavaScript/issues"
   },
-  "homepage": "https://github.com/AsimKhan2019/AwesomeBooks_ES6_JavaScript#readme"
+  "homepage": "https://github.com/AsimKhan2019/AwesomeBooks_ES6_JavaScript#readme",
+  "dependencies": {
+    "luxon": "^2.4.0"
+  }
 }
