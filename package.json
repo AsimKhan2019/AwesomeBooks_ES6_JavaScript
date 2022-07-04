@@ -1,0 +1,20 @@
+{
+  "name": "awesomebooks_es6_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsimKhan2019/AwesomeBooks_ES6_JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsimKhan2019/AwesomeBooks_ES6_JavaScript/issues"
+  },
+  "homepage": "https://github.com/AsimKhan2019/AwesomeBooks_ES6_JavaScript#readme"
+}
