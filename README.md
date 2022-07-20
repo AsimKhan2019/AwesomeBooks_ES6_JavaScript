@@ -2,7 +2,7 @@
 
 # Javascript Project Awesome Books ES 6
 
-> Using Javascript to create a simple Awesome Books project. Populating the books list and then removing one book from the list. Using objects to store the data onto the local storage. Using ES 6 approach
+> A great javascript project that displays and show list of books and add books to the list and remove the books from the list. Using ES 6 to complete this project.
 
 
 ## Built With
